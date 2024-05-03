@@ -1,5 +1,5 @@
 # Financial Tracker CLI
-Start of Application 
+
 This Java program is a command line interface for tracking financial transactions. It allows users to add transactions, view them and save them to a cvs file.
 
 Features
