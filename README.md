@@ -32,6 +32,10 @@ Then I created a while loop and what it does is it loops through a block of code
 
 RESULTS
 
+You first chose option 2 to view transactions, but since there were no transactions available, the program correctly displayed "No transactions available."
+You then chose option 1 to add a transaction. After entering the transaction details (description, vendor, and amount), the program successfully added the transaction and displayed "Transaction added successfully."
+You chose option 2 again to view transactions. This time, the program displayed the added transaction with its details (date, time, description, vendor, and amount) in a formatted table.
+Finally, you chose option 2 again to view transactions. The same transaction was displayed once more, confirming that it was successfully stored and retrieved.
 
 ![p](https://github.com/JBueno3/CapstoneOne_AccountingLedger/assets/166542802/e9c00e87-c0a0-47b3-8544-d590f75f9e37)
 ![s](https://github.com/JBueno3/CapstoneOne_AccountingLedger/assets/166542802/ba5dc57c-3a38-4d95-9777-53ad6fdaafaf)
