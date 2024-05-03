@@ -27,7 +27,10 @@ Then I created a while loop and what it does is it loops through a block of code
 
 
 
+
 RESULTS
+
+
 ![p](https://github.com/JBueno3/CapstoneOne_AccountingLedger/assets/166542802/e9c00e87-c0a0-47b3-8544-d590f75f9e37)
 ![s](https://github.com/JBueno3/CapstoneOne_AccountingLedger/assets/166542802/ba5dc57c-3a38-4d95-9777-53ad6fdaafaf)
 
