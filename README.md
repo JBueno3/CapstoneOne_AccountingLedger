@@ -8,7 +8,6 @@ Add transactions with details such as description, vendor, and amount.
 View a list of all transactions.
 Save transactions to a CSV file.
 
-Interesting Piece of code
 
 So First I assigned a string called File Name to transactions cvs. 
 ![Capture](https://github.com/JBueno3/CapstoneOne_AccountingLedger/assets/166542802/5a00d003-cef3-4774-9aaf-58bb4762bea3)
